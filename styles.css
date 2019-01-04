@@ -1,0 +1,433 @@
+@media screen and (max-width: 2560px) {
+    .navbar-expand-sm {
+        width: 100% !important;
+    }
+}
+@media screen and (max-width: 2560px) and (min-width: 992px){
+    .Rectangle-6 {
+      background-color: green;
+    }
+    /* .container-class {
+        width: 960px !important;
+    } */
+}
+
+@media screen and (max-width: 992px) and (min-width: 736px){
+    .Rectangle-6 {
+      background-color: blue;
+    }
+
+    .margin-left-55 {
+        margin-left: 12px !important;
+    }
+
+    .margin-left-102 {
+        margin-left: 40px !important;
+    }
+
+    .margin-left-100 {
+        margin-left: 100px !important;
+    }
+
+    .margin-left-93 {
+        margin-left: 63px !important;
+    }
+}
+
+@media screen and (max-width: 736px) and (min-width: 590px){
+    .Rectangle-6 {
+      background-color: black;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .Rectangle-6 {
+      background-color: red;
+    }
+
+    .margin-left-100 {
+        margin-left: 20px !important;
+    }
+
+    .margin-left-102 {
+        margin-left: 215px !important;
+    }
+
+    .font-12 {
+        font-size: 12px;
+    }
+
+    .margin-left-55 {
+        margin-left: 30px !important;
+    }
+}
+
+.navbar>.container, .navbar>.container-fluid {
+    justify-content: left;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.margin-12 {
+    margin-top: 12px;
+}
+
+.margin-left-neg-235 {
+    margin-left: -235px;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.margin-left-100 {
+    margin-left: 100px;
+}
+
+.margin-left-55 {
+    margin-left: 55px;
+}
+
+.margin-left-102 {
+    margin-left: 102px;
+}
+
+.margin-right-89 {
+    margin-right: 89px;
+}
+
+.margin-left-93 {
+    margin-left: 93px;
+}
+
+.width-320 {
+    width: 320px;
+}
+
+.dropdown-menu {
+    border: 1px solid #ffffff;
+    border-radius: 0 !important;
+    margin-top: 8px;
+}
+
+.bg-light{
+    background-color: #ffffff !important;
+}
+
+.border-right {
+    border-right: 1px solid gray
+}
+
+.padding-left-25 {
+    padding-left: 25px;
+}
+
+.Rebecca-Willams {
+    width: 202px;
+    height: 25px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #000000;
+  }
+
+  .Combined-Shape {
+    width: 320px;
+    height: 452px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
+    background-color: #ffffff;
+  }
+
+  .margin-top-11 {
+      margin-top: 11px;
+  }
+
+  .margin-bottom-11 {
+    margin-bottom: 11px;
+}
+
+.Text {
+    width: 203px;
+    height: 25px;
+    font-family: NotoSans;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #9b9b9b;
+  }
+
+  .Rectangle-20 {
+    width: 320px;
+    height: 46px;
+    background-color: #276c83;
+  }
+
+  .Text-Black {
+    width: 199px;
+    height: 30px;
+    font-family: NotoSans;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.4px;
+    color: #ffffff;
+  }
+
+  .Account-Menu-item {
+    width: 320px;
+    height: 46px;
+  }
+
+.margin-left-16{
+    margin-left: 16px;
+}
+
+.padding-top-12 {
+    padding-top: 12px;
+}
+
+.padding-bottom-8 {
+    padding-bottom: 8px;
+}
+
+/* .Rectangle {
+    width: 320px;
+    background-color: #d3d5d7;
+  } */
+
+.Text-Grey {
+    width: 199px;
+    height: 30px;
+}
+
+.Text-SRed {
+    width: 199px;
+    height: 30px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid gray;
+}
+
+.Text-SBlue {
+    width: 218px;
+    height: 34px;
+    font-family: NotoSans;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #007aff;
+}
+
+.Mail-blue {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}
+
+.margin-15 {
+    margin: 15px 15px 15px 15px;
+}
+
+.Back-Arrow {
+    width: 8px;
+    height: 13px;
+    object-fit: contain;
+}
+
+.Notification-Sred {
+    width: 40px;
+    height: 30px;
+    font-family: NotoSans;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #ff3b30;
+}
+
+.Notification-Sblue {
+    width: 40px;
+    height: 30px;
+    font-family: NotoSans;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #007aff;
+}
+
+.padding-top-10 {
+    padding-top: 10px;
+}
+
+.padding-right-10 {
+    padding-right: 10px;
+}
+
+.padding-reset-left {
+    padding-left: 0px;
+}
+
+.Admin-outlline {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}
+
+.Text-Sred {
+    width: 218px;
+    height: 34px;
+    font-family: NotoSans;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ff3b30;
+}
+
+.Post-a-Job {
+    width: 44px;
+    height: 22px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #000000;
+}
+
+.Find-a-Job {
+    width: 48px;
+    height: 22px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #007f72;
+  }
+
+  /* .navbar-light .navbar-nav .nav-link {
+    color: #000000;
+  } */
+
+  /* .navbar-light.navbar-nav.nav-link::active {
+      color: #007f72;
+  } */
+
+a:focus {
+    width: 48px;
+    height: 22px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+}
+
+.Rectangle-4 {
+    width: 1110px;
+    height: 760px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.14);
+    background-color: #ffffff;
+}
+
+.margin-top-60 {
+    margin-top: 60px;
+}
+
+.Title-2 {
+    height: 33px;
+    font-family: NotoSans;
+    font-size: 24px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.padding-left-32 {
+    padding-left: 32px;
+}
+
+.padding-top-32 {
+    padding-top: 32px;
+}
+
+.Rectangle-5 {
+    width: 1110px;
+    height: 125px;
+    background-color: #f9f9f9;
+}
+
+.Active {
+    width: 52px;
+    height: 22px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #007f72;
+}
+
+.Rectangle {
+    width: 120px;
+    height: 4px;
+    background-color: #007f72;
+}
+
+.margin-top-35 {
+    margin-top: 35px;
+}
+
+.margin-left-63 {
+    margin-left: 63px;
+}
+
+.margin-left-15 {
+    margin-left: 15px;
+}
+
+.margin-left-73 {
+    margin-left: 73px;
+}
+
+.Rectangle-6 {
+    height: 635px;
+}
